@@ -10,11 +10,6 @@ path = 'contracts/access-policy.clar'
 clarity_version = 2
 epoch = 2.5
 
-[contracts.access-policy_]
-path = 'contracts/access-policy_.clar'
-clarity_version = 2
-epoch = 2.5
-
 [contracts.audit-logging]
 path = 'contracts/audit-logging.clar'
 clarity_version = 2
